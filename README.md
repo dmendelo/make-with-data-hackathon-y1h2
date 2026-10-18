@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://github.com/edenaschildren/make-with-data/blob/main/images/make-with-data-hackathon-march-2026_banner.png" alt="Make-With-Data_Hackathon_banner" width="400" ></p>
 
-<h3 align="left">October 20-24, 2026</h3>
+<h3 align="center">October 20-24, 2026</h3>
 
 <h3 align="left">Overview</h3>
 
