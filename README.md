@@ -33,30 +33,27 @@ This Hackathon is intended to get the community to participate in making maps ba
 
 <h3>Timeline and Agenda</h3>
 
-<h4>In-Person Agenda 3/25:</h4>
+<h4>In-Person Agenda 10/21:</h4>
 - 
 
-- 1:15 - 1:30 - Networking
-- 1:30 - 1:45 - Welcome and Breathwork Exercise              
-- 1:45 - 2:00 - Introductions
-- 2:00 - 2:45 - Make-With-Data Workshop 
-- 2:45 - 3:00 - BREAK — Q/A 
-- 3:00 - 4:30 - Hackathon
-- 4:30 - 5:00 - BREAK —  Q/A — Light food and refreshments
-- 5:00 - 7:00 - Hackathon
-- 7:15 - 7:25 - Q/A, Recap and Next Steps
-- 7:25 - 7:30 - Closing and Breathwork Exercise
-- 7:30 - 7:45 - Networking
+- 4:15 - 4:30 - Networking
+- 4:30 - 4:45 - Welcome and Introductions
+- 4:45 - 5:15 - Make-With-Data Workshop 
+- 5:15 - 5:30 - BREAK — Q/A 
+- Light food and refreshments
+- 5:30 - 7:00 - Hackathon
+- 7:00 - 7:15 - Q/A, Recap, Next Steps
+- 7:15 - 7:30 - Closing and Networking
 
-<h4> Submit Map 3/26</h4>
+<h4> Submit Map 10/22</h4>
 
-<p>Map Submissions are due Thursday March 26th by Midnight 
+<p>Map Submissions are due Thursday October 22nd by Midnight 
 Use this form to submit your map:   </p> 
  <a href="https://forms.gle/fdiCXiY4S7rq1MXT8" target="_blank" rel="noopener noreferrer">Submit your final make-with-data map! </a>
 
-<h4> Judges will score the maps virtually on Friday March 27th  </h4>
+<h4> Judges will score the maps virtually on Friday October 23rd  </h4>
 
-<h4> Winners will be announced on Saturday March 28th </h4>
+<h4> Winners will be announced on Saturday October 24th </h4>
 
 
 <h2>Make-With-Data Instructions</h2>
@@ -113,7 +110,7 @@ Use this form to submit your map:   </p>
 
 <p>Original work! Do not use AI for any part of this process. You can use the Internet for research however making the map must be your own work. </p>
 
-<h4>Map Submissions are due Thursday March 26th by Midnight 
+<h4>Map Submissions are due Thursday October 22nd by Midnight 
 Use this form to submit your map:   </h4> 
  <a href="https://forms.gle/fdiCXiY4S7rq1MXT8" target="_blank" rel="noopener noreferrer">Submit your final make-with-data map! </a>
 
@@ -151,21 +148,20 @@ Use this form to submit your map:   </h4>
 - 1st place, $100
 - 2nd place, $50
 - 3rd place, $25
-- 4th place, $5
-- 5th place, $5
  
   
 
 <h3>Judges</h3>
 - 
 
-- Swati Sharma, GIS Specialist, Urban Planner
 - Jeffrey Rothstein, PhD, Artist and Photographer 
+- Rosie Kwon, Data Analyst at New York-Presbyterian 
+- Shourya Dokania, Geospatial Data Scientist at NYC DOT
 - Neil Mendeloff and Christopher Baptiste, Edenas Children Board of Directors
 
-<h3>Thank you to Neil Mendeloff for sponsoring the food and refreshments!</h3>
+<h3>Thank you to our sponsors for sponsoring the food and refreshments!</h3>
 
-<h3>Thank you for participating in the March 25th, 2026 <a href="https://edenaschildren.org">Edenas Children</a> Hackathon for Make-With-Data: Mapping Mental Health in partnership with <a href="https://dnmgeospatial.org">DNM Geospatial </a></h3>
+<h3>Thank you for participating in the October 21st, 2026 <a href="https://edenaschildren.org">Edenas Children</a> Hackathon for Make-With-Data: Mapping Mental Health in partnership with <a href="https://dnmgeospatial.org">DNM Geospatial </a></h3>
 
 <h3>Follow us on Instagram to see the winning maps: <a href="https://www.instagram.com/edenaschildren"> @edenaschildren </a> and <a href="https://www.instagram.com/dnmgeospatial"> @dnmgeospatial </h3>
 
